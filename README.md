@@ -1,16 +1,18 @@
 ### Hi there 👋
+<code>I'm a teapot</code>
 
-<!--
-**MRtecno98/MRtecno98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Working on
+* [![Juno Badge](https://img.shields.io/badge/repository-Just%20an%20Useful%20Network%20Organizer-brightgreen?logo=github)](https://github.com/MRtecno98/Juno)
+* [![SpigotCommons Badge](https://img.shields.io/badge/repository-Spigot%20Commons-brightgreen?logo=github)](https://github.com/MRtecno98/SpigotCommons)
+* [![mc-launch Badge](https://img.shields.io/badge/repository-mc--launch-brightgreen?logo=github)](https://github.com/MRtecno98/mc-launch)
 
-Here are some ideas to get you started:
+#### 📫 You can contact me on [Telegram](https://t.me/MRtecno98)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MRtecno98&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRtecno98&layout=compact" />
+</a>
