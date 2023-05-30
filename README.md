@@ -1,18 +1,5 @@
-### Hi there 👋
-<code>I'm a teapot</code>
+[<img align="left" width="390" src="https://gist.githubusercontent.com/MRtecno98/c3da7c4610a5d1221770ac8e98478965/raw/general.svg">](#)
+[<img align="left" width="390" src="https://gist.githubusercontent.com/MRtecno98/c3da7c4610a5d1221770ac8e98478965/raw/medias.svg">](#)
 
-### 🔭 Working on
-* [![Juno Badge](https://img.shields.io/badge/repository-Just%20an%20Useful%20Network%20Organizer-brightgreen?logo=github)](https://github.com/MRtecno98/Juno)
-* [![SpigotCommons Badge](https://img.shields.io/badge/repository-Spigot%20Commons-brightgreen?logo=github)](https://github.com/MRtecno98/SpigotCommons)
-* [![mc-launch Badge](https://img.shields.io/badge/repository-mc--launch-brightgreen?logo=github)](https://github.com/MRtecno98/mc-launch)
-
-#### 📫 You can contact me on [Telegram](https://t.me/MRtecno98)
-
-<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MRtecno98&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRtecno98" />
-</a>
+<!-- [<img align="left" width="390" src="https://gist.githubusercontent.com/MRtecno98/c3da7c4610a5d1221770ac8e98478965/raw/habits.svg">](#) -->
+<!-- [<img align="right" width="390" src="https://gist.githubusercontent.com/MRtecno98/c3da7c4610a5d1221770ac8e98478965/raw/achievements.svg">](#) -->
