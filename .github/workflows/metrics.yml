@@ -35,13 +35,13 @@ jobs:
           plugin_anilist_user: .user.login
           plugin_music: yes
           plugin_music_limit: 8
-          plugin_music_mode: top
+          plugin_music_mode: recent
           plugin_music_played_at: yes
-          plugin_music_provider: spotify
-          plugin_music_token: "${{ secrets.SPOTIFY_ID }}, ${{ secrets.SPOTIFY_SECRET }}, ${{ secrets.SPOTIFY_REFRESH }}"
-          plugin_music_time_range: medium
+          plugin_music_provider: lastfm
+          plugin_music_token: "${{ secrets.LASTFM_API_KEY }}"
+          plugin_music_time_range: short
           plugin_music_top_type: tracks
-          plugin_music_user: .user.login
+          plugin_music_user: MRtecno98
           
       - name: Achievements
         uses: lowlighter/metrics@latest
@@ -81,13 +81,13 @@ jobs:
           config_timezone: Europe/Rome
           filename: habits.svg
           
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
+          # plugin_habits: yes
+          # plugin_habits_charts_type: classic
+          # plugin_habits_days: 14
+          # plugin_habits_facts: yes
+          # plugin_habits_from: 200
+          # plugin_habits_languages_limit: 8
+          # plugin_habits_languages_threshold: 0%
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_SECRET }}
           plugin_wakatime_days: 30
@@ -111,12 +111,12 @@ jobs:
           config_timezone: Europe/Rome
           filename: general.svg
           
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 3
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          # plugin_activity: yes
+          # plugin_activity_days: 14
+          # plugin_activity_filter: all
+          # plugin_activity_limit: 3
+          # plugin_activity_load: 300
+          # plugin_activity_visibility: all
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
